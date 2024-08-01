@@ -1,0 +1,37 @@
+[20:37:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:37:32] [ServerMain/INFO]: Loaded 1290 recipes
+[20:37:32] [ServerMain/INFO]: Loaded 1399 advancements
+[20:37:32] [Server thread/INFO]: Starting minecraft server version 1.21
+[20:37:32] [Server thread/INFO]: Loading properties
+[20:37:32] [Server thread/INFO]: Default game type: SURVIVAL
+[20:37:32] [Server thread/INFO]: Generating keypair
+[20:37:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:37:33] [Server thread/INFO]: Using epoll channel type
+[20:37:33] [Server thread/INFO]: Preparing level "world"
+[20:37:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:37:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:37:36] [Server thread/INFO]: Time elapsed: 461 ms
+[20:37:36] [Server thread/INFO]: Done (2.939s)! For help, type "help"
+[20:39:05] [User Authenticator #1/INFO]: UUID of player bestibtw is 2a87bcb9-210f-494a-9513-6a40f589645e
+[20:39:07] [Server thread/INFO]: bestibtw[/[0:0:0:0:0:0:0:1%0]:56040] logged in with entity id 5 at (318.4916857729544, 78.0, 28.97395899676507)
+[20:39:07] [Server thread/INFO]: bestibtw joined the game
+[20:58:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=406, y=63, z=-48} jd{x=408, y=64, z=-49}
+[20:58:39] [User Authenticator #2/INFO]: UUID of player baert01 is e6eddf37-431e-494b-b2d3-92e1f7f7dc23
+[20:58:41] [Server thread/INFO]: baert01[/[0:0:0:0:0:0:0:1%0]:35254] logged in with entity id 3901 at (339.9314860361417, 66.0, 104.56435990547787)
+[20:58:41] [Server thread/INFO]: baert01 joined the game
+[21:02:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=408, y=85, z=-46} jd{x=409, y=84, z=-46}
+[21:03:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=407, y=70, z=-48} jd{x=407, y=70, z=-47}
+[21:03:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=408, y=71, z=-46} jd{x=409, y=71, z=-46}
+[21:04:41] [Server thread/INFO]: baert01 lost connection: Timed out
+[21:04:41] [Server thread/INFO]: baert01 left the game
+[21:04:41] [Server thread/WARN]: handleDisconnection() called twice
+[21:08:33] [User Authenticator #3/INFO]: UUID of player baert01 is e6eddf37-431e-494b-b2d3-92e1f7f7dc23
+[21:08:35] [Server thread/INFO]: baert01[/[0:0:0:0:0:0:0:1%0]:56520] logged in with entity id 6751 at (349.37567849135246, 62.0, 6.131268247758916)
+[21:08:35] [Server thread/INFO]: baert01 joined the game
+[21:11:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=491, y=70, z=-59} jd{x=495, y=73, z=-58}
+[21:11:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=491, y=70, z=-59} jd{x=495, y=73, z=-61}
+[21:13:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=491, y=70, z=-59} jd{x=493, y=95, z=-51}
+[21:19:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=493, y=95, z=-51} jd{x=499, y=97, z=-66}
+[21:21:05] [Server thread/INFO]: baert01 fell from a high place
+[21:23:36] [Server thread/INFO]: baert01 lost connection: Timed out
+[21:23:36] [Server thread/INFO]: baert01 left the game
